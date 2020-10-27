@@ -30,6 +30,6 @@ print(response.json())
 input()
 
 print("GET price for small custom pizza")
-response = requests.patch(BASE + 'price')
+response = requests.get(BASE + 'price')
 print(response.json())
 

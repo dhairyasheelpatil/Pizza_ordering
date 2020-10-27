@@ -15,7 +15,6 @@ GET pricing for all items
 [{'pizza': [{'custom': {'Small': 10, 'Med': 15, 'Large': 20}}, {'margarieta': {'Small': 10, 'Med': 15, 'Large': 20}}, {'buffalo': {'Small': 10, 'Med': 15, 'Large': 20}}, {'hawaiian': {'Small': 10, 'Med': 15, 'Large': 20}}]}, {'beverage': [{'Coke': {'Small': 10, 'Med': 15, 'Large': 20}}, {'lemonade': {'Small': 10, 'Med': 15, 'Large': 20}}]}, {'apetizer': [{'wings': {'Small': 10, 'Med': 15, 'Large': 20}}, {'fries': {'Small': 10, 'Med': 15, 'Large': 20}}]}]
 
 GET price for small custom pizza
-[{'pizza': [{'custom': {'Small': 10, 'Med': 15, 'Large': 20}}, {'margarieta': {'Small': 10, 'Med': 15, 'Large': 20}}, {'buffalo': {'Small': 10, 'Med': 15, 'Large': 20}}, {'hawaiian': {'Small': 10, 'Med': 15, 'Large': 20}}]}, {'beverage': [{'Coke': {'Small': 10, 'Med': 15, 'Large': 20}}, {'lemonade': {'Small': 10, 'Med': 15, 'Large': 20}}]}, {'apetizer': [{'wings': {'Small': 10, 'Med': 15, 'Large': 20}}, {'fries': {'Small': 10, 'Med': 15, 'Large': 20}}]}]
-
+{'price': 10}
 
 ```
